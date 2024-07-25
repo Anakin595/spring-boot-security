@@ -1,3 +1,7 @@
+# Generated sources
+.idea/
+target/
+
 # Compiled class file
 *.class
 
